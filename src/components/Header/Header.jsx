@@ -2,7 +2,7 @@
 import { Link } from "react-router-dom";
 import logo from "../../assets/react.svg";
 import "./Header.css";
-import { Nav } from "../nav/nav";
+import { Nav } from "../Nav/Nav";
 
 export const Header = () => {
     return (
