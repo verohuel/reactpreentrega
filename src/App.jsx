@@ -1,6 +1,6 @@
 import { Route, Routes } from "react-router-dom";
 import "./App.css";
-import {Footer}  from "./components/Footer/Footer";
+import {Footer}  from "./components/Footer/footer";
 import { Header } from "./components/Header/Header";
 import { ItemListContainer } from "./components/ItemListContainer/ItemListContainer";
 import { ItemDetailContainer } from "./components/ItemDetailContainer/ItemDetailContainer";
