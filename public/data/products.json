@@ -1,0 +1,35 @@
+[
+    {
+    "id": 1,
+    "name": "disco solido ssd",
+    "description": "Considerado un dispositivo de alto rendimiento, la unidad en estado sólido A400 de Kingston está diseñada para las personas más exigentes. Mejora de forma notable la capacidad de respuesta de su sistema, ya que alcanza velocidades de lectura/escritura de hasta 500MB/seg y 450MB/seg. Por ende, es 10 veces más rápido que un disco duro tradicional. Al estar compuesta por una memoria flash es silenciosa y posee pocas probabilidades de tener fallas.",
+    "price": 95500,
+    "image": "/img/kingston.jpg",
+    "category": "memoria"
+    },
+    {
+    "id": 2,
+    "name": "memoria ram",
+    "description": "Memoria RAM DDR4 de 8GB a 3200 MHz de la línea FURY Beast, con disipador de perfil bajo en negro. Trae perfil XMP listo para activar 3200 MHz con CL16 desde la BIOS y compatibilidad Plug N Play a 2666 MHz si el equipo no soporta XMP. Es una memoria pensada para armar o ampliar equipos gamer sin complicaciones de compatibilidad.",
+    "price": 218500,
+    "image": "/img/memoria-ddr4-kingston.jpg",
+    "category": "memoria"
+    },
+    {
+    "id": 3,
+    "name": "placa de video",
+    "description": "La Placa de Video Gigabyte GeForce RTX 5060 Ti Windforce OC representa la próxima generación de rendimiento gráfico, diseñada para gamers y creadores de contenido que buscan una experiencia visual inmersiva y fluida. Con la potencia de NVIDIA RTX y el robusto sistema de refrigeración Windforce de Gigabyte, esta tarjeta promete llevar tus juegos y aplicaciones a un nuevo nivel de detalle y velocidad. Es ideal para resoluciones altas y configuraciones gráficas exigentes.",
+    "price": 921000,
+    "image": "/img/placa de video.png",
+    "category": "componente"
+    },
+    {
+    "id": 4,
+    "name": "teclado mecanico",
+    "description": "El Redragon K552 Kumara 2 es un teclado mecánico compacto diseñado para ofrecer alto rendimiento en juegos y tareas diarias. Su formato tenkeyless ahorra espacio sin sacrificar funcionalidad, mientras que sus switches mecánicos garantizan precisión y durabilidad. Con retroiluminación Rainbow, construcción robusta y compatibilidad con software, es una opción ideal para gamers y profesionales.",
+    "price": 70000,
+    "image": "/img/teclado mecanico.jpg",
+    "category": "componente"
+    }
+
+]
