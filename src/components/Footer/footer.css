@@ -1,0 +1,56 @@
+footer {
+  margin-top: 4rem;
+  width: 100%;
+  background: var(--surface);
+  border-top: 1px solid var(--border);
+
+  padding: 1.5rem 0rem;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer p {
+  color: var(--text-secondary);
+}
+
+footer .nav-list {
+  gap: 1.5rem;
+}
+
+footer li {
+  transition: 0.25s;
+  cursor: pointer;
+  display: flex;
+}
+
+footer li:hover {
+  color: var(--primary);
+}
+
+.footer-icon {
+  object-fit: contain;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  gap: 1.5rem;
+  padding: 0;
+  margin: 0;
+}
+
+.icon-whatsapp {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+}
+
+.icon-instagram {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+}
